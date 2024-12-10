@@ -1,0 +1,34 @@
+/* ----- default style ----- */
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.wrapper {
+  max-width: 50em;
+}
+
+.img-container {
+  position: relative;
+}
+
+.img-container img {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+
+li {
+  list-style: none;
+}
+
+body {
+  min-height: 100vh;
+}
+
+/* ----- nav style ----- */
+
+/* ----- main style ----- */
+
+/* ----- footer style ----- */
