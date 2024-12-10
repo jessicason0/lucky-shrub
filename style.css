@@ -27,8 +27,67 @@ body {
   min-height: 100vh;
 }
 
-/* ----- nav style ----- */
+/* ----- header style ----- */
+header {
+}
 
+header img {
+}
+
+nav {
+}
+
+nav ul {
+}
+
+nav li {
+}
+
+nav a {
+}
 /* ----- main style ----- */
+main {
+}
+
+.content {
+}
+
+.promotion {
+}
+
+.promotion h3 {
+}
+
+.promotion p {
+}
+
+.info {
+}
+
+.info__card {
+}
+
+.info .img-container {
+}
+
+.info__text {
+}
+
+.info__text h2 {
+}
+
+.info__text p {
+}
 
 /* ----- footer style ----- */
+footer {
+}
+
+.copyright {
+}
+
+.copyright div {
+}
+
+.copyright p {
+}
